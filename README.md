@@ -6,7 +6,7 @@ Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs
 ### Data
 English movie review labeled with positive or negative.
 
-###Model Architecture
+### Model Architecture
 ![](http://www.wildml.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-06-at-8.03.47-AM-1024x413.png)
 
 ### Requirements
