@@ -1,0 +1,17 @@
+{
+  "proj_name": "cnn-text-classification",
+  "num_epochs": 20,
+  "num_iter_per_epoch": 500,
+  "learning_rate": 0.001,
+  "batch_size": 16,
+  "valid_size": 100,
+  "state_size": 200,
+  "max_to_keep":5,
+  "num_class": 2,
+  "embedding_size": 100,
+  "filter_sizes": [3, 4, 5],
+  "num_filters": 16,
+  "dropout_rate": 0.5,
+  "positive_data_file": "data/rt-polarity.pos",
+  "negative_data_file": "data/rt-polarity.neg"
+}
